@@ -1,5 +1,4 @@
 import {Icon} from "@iconify/react"
-import fireIcon from "@iconify/icons-mdi/fire-alert"
 import React from 'react'
 
 const ICONS = {
