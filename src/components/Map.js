@@ -37,7 +37,7 @@ function locationMarkers(){
   return (
     <div className = "map">
         <GoogleMapReact
-            bootstrapURLKeys = {{ key: "AIzaSyDOD8ACGYJ7YzQs2sXLRb32qKScAgGdT8s" }}
+            bootstrapURLKeys = {{ key: "" }}
             defaultCenter = { center }
             defaultZoom = { zoom }
         >
